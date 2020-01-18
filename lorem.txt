@@ -1,7 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Duis vitae pretium ligula, ut tristique ipsum. 
-Proin varius dolor ipsum, ac auctor lectus iaculis at
-Vestibulum iaculis tristique felis, et volutpat diam. 
-Cras semper ex et metus tincidunt pretium in sit amet libero. 
-Sed tristique lectus vitae est mollis, sit amet congue nunc venenatis. 
-Vestibulum commodo sagittis erat, et pellentesque diam facilisis quis
